@@ -1,0 +1,18 @@
+ul li{
+    list-style:none;
+}
+
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contenedor:hover{
+    background-color: black;
+    color: white; 
+}
+
+.subcontenedor{
+    display: flex;
+    justify-content: flex-end;
+}

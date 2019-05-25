@@ -1,0 +1,41 @@
+[
+    {
+      "id_direcciones": 1,
+      "calle": "Andersen",
+      "numero": "761",
+      "piso": "1",
+      "departamento": "5",
+      "manzana": "15",
+      "barrio": "La Paz",
+      "localidad": "Jose C Paz",
+      "provincia": "Buenos Aires",
+      "codigo_postal": "1665",
+      "uso": "Casa"
+    },
+    {
+      "id_direcciones": 2,
+      "calle": "Piñero",
+      "numero": "1064",
+      "piso": null,
+      "departamento": "5",
+      "manzana": "10",
+      "barrio": "Santa Rita",
+      "localidad": "Jose C Paz",
+      "provincia": "Buenos Aires",
+      "codigo_postal": "1665",
+      "uso": "Casa"
+    },
+    {
+      "id_direcciones": 3,
+      "calle": "Platon",
+      "numero": "1968",
+      "piso": "9",
+      "departamento": null,
+      "manzana": "3",
+      "barrio": "El Ombu",
+      "localidad": "Caseros",
+      "provincia": "Buenos Aires",
+      "codigo_postal": "1895",
+      "uso": "Comercio"
+    }
+]

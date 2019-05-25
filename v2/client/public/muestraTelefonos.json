@@ -1,0 +1,38 @@
+[
+    {
+      "id_agrupador": 1,
+      "id_datos_personales_fk": 1,
+      "domicilio": "02320433707",
+      "celular": "+541125857872"
+    },
+    {
+      "id_agrupador": 2,
+      "id_datos_personales_fk": 1,
+      "domicilio": "44441111",
+      "celular": "+541144444446"
+    },
+    {
+      "id_agrupador": 3,
+      "id_datos_personales_fk": 2,
+      "domicilio": "02320464649",
+      "celular": null
+    },
+    {
+      "id_agrupador": 4,
+      "id_datos_personales_fk": 3,
+      "domicilio": "01124354568",
+      "celular": "+541197655414"
+    },
+    {
+      "id_agrupador": 5,
+      "id_datos_personales_fk": 3,
+      "domicilio": "02322443388",
+      "celular": null
+    },
+    {
+      "id_agrupador": 6,
+      "id_datos_personales_fk": 2,
+      "domicilio": "02322443388",
+      "celular": "+541166449788"
+    }
+  ]

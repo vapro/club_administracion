@@ -1,0 +1,132 @@
+[
+    {
+      "id_actividad": 1,
+      "descripcion_actividad": "Cuota Social",
+      "precio": 100
+    },
+    {
+      "id_actividad": 2,
+      "descripcion_actividad": "Fútbol Amateur",
+      "precio": 0
+    },
+    {
+      "id_actividad": 3,
+      "descripcion_actividad": "Cancha",
+      "precio": 0
+    },
+    {
+      "id_actividad": 4,
+      "descripcion_actividad": "Patín",
+      "precio": 350
+    },
+    {
+      "id_actividad": 5,
+      "descripcion_actividad": "Taekwondo",
+      "precio": 320
+    },
+    {
+      "id_actividad": 6,
+      "descripcion_actividad": "Karate Do",
+      "precio": 0
+    },
+    {
+      "id_actividad": 7,
+      "descripcion_actividad": "Fútbol Femenino",
+      "precio": 250
+    },
+    {
+      "id_actividad": 8,
+      "descripcion_actividad": "Handball",
+      "precio": 360
+    },
+    {
+      "id_actividad": 9,
+      "descripcion_actividad": "Fútbol Infantil",
+      "precio": 100
+    },
+    {
+      "id_actividad": 10,
+      "descripcion_actividad": "Futsal",
+      "precio": 250
+    },
+    {
+      "id_actividad": 11,
+      "descripcion_actividad": "Gimnasia Artistica",
+      "precio": 350
+    },
+    {
+      "id_actividad": 12,
+      "descripcion_actividad": "Acrobacias de Telas",
+      "precio": 350
+    },
+    {
+      "id_actividad": 13,
+      "descripcion_actividad": "Kick Boxing",
+      "precio": 320
+    },
+    {
+      "id_actividad": 14,
+      "descripcion_actividad": "Boxeo",
+      "precio": 0
+    },
+    {
+      "id_actividad": 15,
+      "descripcion_actividad": "Kangoo Jump",
+      "precio": 0
+    },
+    {
+      "id_actividad": 16,
+      "descripcion_actividad": "Defensa Personal",
+      "precio": 320
+    },
+    {
+      "id_actividad": 17,
+      "descripcion_actividad": "Kangoo Jump",
+      "precio": 0
+    },
+    {
+      "id_actividad": 18,
+      "descripcion_actividad": "Sipalki",
+      "precio": 0
+    },
+    {
+      "id_actividad": 19,
+      "descripcion_actividad": "Futbol Senior",
+      "precio": 250
+    },
+    {
+      "id_actividad": 20,
+      "descripcion_actividad": "Gimnasio",
+      "precio": 250
+    },
+    {
+      "id_actividad": 21,
+      "descripcion_actividad": "Fotografia",
+      "precio": 0
+    },
+    {
+      "id_actividad": 22,
+      "descripcion_actividad": "Entrenamiento Funcional",
+      "precio": 350
+    },
+    {
+      "id_actividad": 23,
+      "descripcion_actividad": "Volley",
+      "precio": 320
+    },
+    {
+      "id_actividad": 24,
+      "descripcion_actividad": "Zumba",
+      "precio": 350
+    },
+    {
+      "id_actividad": 25,
+      "descripcion_actividad": "Futbol Devoto",
+      "precio": 0
+    },
+    {
+      "id_actividad": 26,
+      "descripcion_actividad": "Aikido",
+      "precio": 350
+    }
+  ]

@@ -1,0 +1,32 @@
+[
+    {
+      "id_categoria": 1,
+      "descripcion": "Activo",
+      "descripcion_larga": "Activo"
+    },
+    {
+      "id_categoria": 2,
+      "descripcion": "Dama",
+      "descripcion_larga": "Dama"
+    },
+    {
+      "id_categoria": 3,
+      "descripcion": "Infantil",
+      "descripcion_larga": "Infantil (De 3 a 14 Años)"
+    },
+    {
+      "id_categoria": 4,
+      "descripcion": "Cadete",
+      "descripcion_larga": "Cadete (De 14 a 18 años)"
+    },
+    {
+      "id_categoria": 5,
+      "descripcion": "Vitalicio",
+      "descripcion_larga": "Vitalicio (25 años de antigüedad como Activo)"
+    },
+    {
+      "id_categoria": 6,
+      "descripcion": "Bebé",
+      "descripcion_larga": "Bebé (Hasta 3 años)"
+    }
+  ]

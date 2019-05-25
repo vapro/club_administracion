@@ -1,0 +1,42 @@
+[
+    {
+      "id_datos_personales": 1,
+      "dni": 31805759,
+      "fecha_nacimiento": "1985-07-26T03:00:00.000Z",
+      "apellido": "del Valle",
+      "nombre": "Fernando",
+      "id_direccion_fk": 1,
+      "direccion_mail": "javascriptargentina@gmail.com",
+      "path_foto": "c:fotos\u00001.jpg"
+    },
+    {
+        "id_datos_personales": 2,
+        "dni": 32883898,
+        "fecha_nacimiento": "1987-08-26T03:00:00.000Z",
+        "apellido": "Noelia",
+        "nombre": "Lourdes",
+        "id_direccion_fk": 2,
+        "direccion_mail": "noelia@gmail.com",
+        "path_foto": "c:fotos\u00002.jpg"
+      },
+      {
+        "id_datos_personales": 3,
+        "dni": 33888999,
+        "fecha_nacimiento": "1985-07-26T03:00:00.000Z",
+        "apellido": "del Valle",
+        "nombre": "Matias",
+        "id_direccion_fk": 3,
+        "direccion_mail": "mathdv@gmail.com",
+        "path_foto": "c:fotos\u00003.jpg"
+      },
+      {
+        "id_datos_personales": 4,
+        "dni": 13808979,
+        "fecha_nacimiento": "1985-07-26T03:00:00.000Z",
+        "apellido": "Pintos",
+        "nombre": "Ignacio",
+        "id_direccion_fk": 1,
+        "direccion_mail": "elnacho@gmail.com",
+        "path_foto": null
+      }
+]

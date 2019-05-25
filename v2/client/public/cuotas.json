@@ -1,0 +1,44 @@
+[
+    {
+    "id" : "1",
+    "id_socio": "1",
+    "mes": "01",
+    "anio": "2019",
+    "actividades": 
+        [
+            {
+                "id_actividad": "01",
+                "nombre_actividad" : "Cuota social",
+                "precio": "360",
+                "pago" : "S"
+            },
+            {
+                "id_actividad": "04",
+                "nombre_actividad" : "Basquet",
+                "precio": "200",
+                "pago" : "S"
+            }
+        ]
+    },
+    {
+        "id" : "2",
+        "id_socio": "1",
+        "mes": "02",
+        "anio": "2019",
+        "actividades": 
+            [
+                {
+                    "id_actividad": "01",
+                    "nombre_actividad" : "Cuota social",
+                    "precio": "400",
+                    "pago" : "S"
+                },
+                {
+                    "id_actividad": "04",
+                    "nombre_actividad" : "Basquet",
+                    "precio": "250",
+                    "pago" : "S"
+                }
+            ]
+        }
+]
